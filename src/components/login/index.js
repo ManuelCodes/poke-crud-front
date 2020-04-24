@@ -7,7 +7,6 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 import './style.css';
 import {signIn} from '../firebaseAuth/actions';
-import FirebaseAuth from '../firebaseAuth';
 
 
 import {connect} from 'react-redux';
